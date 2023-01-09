@@ -1,13 +1,13 @@
 {
-  "name": "like2sushi for chrome extension",
+  "name": "like2nicoru for chrome extension",
   "version": "0.1",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "description": "change the love button of Twitter",
-  "web_accessible_resources": ["like2sushi.css"],
+  "web_accessible_resources": ["like2nicoru.css"],
   "content_scripts": [
     {
-      "matches": ["https://twitter.com/*"],
-      "css": ["like2sushi.css"]
+      "matches": [ "https://twitter.com/i/communities/1509450504853630981" ],
+      "css": ["like2nicoru.css"]
     }
   ],
   "icons": { "128": "icon.png" }

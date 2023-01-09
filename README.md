@@ -1,12 +1,10 @@
+# like2nicoru
+![icon](icon.png)
+
 Twitterコミュニティ、ニコニコふぁんくらぶ内だけいいねをニコるにすれば面白くなるんじゃないかという軽率な思いから作りました。
 
 
 以下オリジナル
-
-# like2sushi
-![icon](icon.png)
-
-ついたーのFav:star:がLike:heart:に変えられてしまったのでSushi:sushi:に戻すやつ
 
 See: https://twitter.com/mzyy94/status/661818637418762240
 
